@@ -17,3 +17,8 @@
 1.IOC :支持根据XML(支持构造器注入)和注解方式装配Bean
 
 2.AOP:实现了Before、AfterReturning、AfterThrowing等Advice，支持根据	   JDK动态代理和CGLIB两种方式创建动态代理
+
+
+### 类图
+以下是主要的类图，并不包含全部
+![iamge](https://github.com/sunnyColten/MySpring/blob/master/images/main.png)
